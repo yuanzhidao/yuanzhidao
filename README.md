@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhidao&show_icons=true)]
+
 ### School: Hengshui High School Experimental School
 
 <!--
