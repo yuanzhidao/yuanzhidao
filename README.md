@@ -1,15 +1,21 @@
 ### Hi there 👋
+## 关于我 ##
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhidao&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzhidao)
+网络身份：iYuan / 园知道
 
-### School: Hengshui High School Experimental School
+现实身份：河北衡水中学高一学生
+
+**ISFP-T**
+
+## 联系我 ##
+
+ - Email：[yuan@iyuan.ltd][2]
+ - QQ：208823829
+
+  [1]: https://github.com/Skywt2003/Daydream
+  [2]: mailto://yuan@iyuan.ltd
 
 <!--
-**yuanzhidao/yuanzhidao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
