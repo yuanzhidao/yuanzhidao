@@ -1,17 +1,6 @@
-# 👋 你好呀！
+# 👋 Hi there!
 
-## 关于我 ##
+## About Me ##
 
-iYuan / 园知道
+![card-info](https://raw.githubusercontent.com/yuanzhidao/yuanzhidao/main/assets/img/card-info.png)
 
-河北衡水中学高一学生
-
-**ISFP-T**（或许有变化，等我重测
-
-## 联系我 ##
-
-Email：[yuan@iyuan.ltd][1]
-
-QQ：208823829
-
-  [1]: mailto://yuan@iyuan.ltd
