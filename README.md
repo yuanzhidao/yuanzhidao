@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 ## About Me
-![intro.png](https://s2.loli.net/2025/10/14/hH2CtrTmxGa9DSU.png)
+![card-info.png](https://files.seeusercontent.com/2026/03/04/Ygy0/card-info.png)
 
 ---
 
